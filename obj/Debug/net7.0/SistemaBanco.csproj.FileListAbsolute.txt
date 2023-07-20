@@ -1,0 +1,15 @@
+D:\C#\SistemaBanco\SistemaBanco\bin\Debug\net7.0\SistemaBanco.exe
+D:\C#\SistemaBanco\SistemaBanco\bin\Debug\net7.0\SistemaBanco.deps.json
+D:\C#\SistemaBanco\SistemaBanco\bin\Debug\net7.0\SistemaBanco.runtimeconfig.json
+D:\C#\SistemaBanco\SistemaBanco\bin\Debug\net7.0\SistemaBanco.dll
+D:\C#\SistemaBanco\SistemaBanco\bin\Debug\net7.0\SistemaBanco.pdb
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.csproj.AssemblyReference.cache
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.AssemblyInfoInputs.cache
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.AssemblyInfo.cs
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.csproj.CoreCompileInputs.cache
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.dll
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\refint\SistemaBanco.dll
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.pdb
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\SistemaBanco.genruntimeconfig.cache
+D:\C#\SistemaBanco\SistemaBanco\obj\Debug\net7.0\ref\SistemaBanco.dll
